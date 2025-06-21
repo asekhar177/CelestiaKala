@@ -1,0 +1,14 @@
+Package: CelestiaKala
+Title: R Package for Hindu Astrology & Timings
+Version: 0.1.0
+Authors@R: 
+    person("Arjun", "Sekhar", , "arjun.sekhar1@outlook.com", role = c("aut", "cre"))
+Description: Provides Vedic astrology calculations for R users interested in Hindu astrology and Muhurta calculations.
+License: file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2
+Imports: 
+    suncalc,
+    swephR,
+    lubridate
