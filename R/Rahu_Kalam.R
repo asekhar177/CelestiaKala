@@ -2,6 +2,7 @@
 #' @import suncalc
 #' @import swephR
 #' @importFrom lubridate as_datetime
+NULL
 #'
 # ---- calculate_rahu_kalam ----
 #' Calculate Rahu Kalam timing based on sunrise and sunset
